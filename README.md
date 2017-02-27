@@ -1,0 +1,2 @@
+# team_performance
+i had attended Machine Learning session in my comp, and had been assigned on one problem statement. My problem statement was " tendency of a team member to work on any task/project assigned in a quick manner". So i have decided to find out no of offshore performers wokrd on different types of project and how did they perform in those areas, who all needs improvement , having knowledge gap &amp; lack of interest. 
